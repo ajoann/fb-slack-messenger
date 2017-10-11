@@ -1,0 +1,44 @@
+# env
+env.sh
+.env
+
+# config
+config/
+
+# Logs
+logs
+*.log
+npm-debug-log*
+yarn-debug.log*
+yarn-error.log*
+
+#Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs made by jscoverage/JSCover
+lib-cov
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Node and NPM packages
+build/Release
+node_modules/
+jspm_packages/
+.npm
+.node_repl_history
+
+# eslint cache
+.eslintcache
+
+# Other
+.nyc_output
+.grunt
+bower_components
+.lock-wscript
+typings/
+.tgz
+.yarn-integrity

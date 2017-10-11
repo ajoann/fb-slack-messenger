@@ -9,5 +9,13 @@
     "start": "node server.js"
   },
   "author": "AJ Hansen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.14.1",
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1",
+    "nodemon": "^1.12.1"
+  }
 }
